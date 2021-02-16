@@ -1,10 +1,8 @@
-#Next Gen Telecommunication Impact on Business and Solution Engineering
-
-## Introduction
+# Next Gen Telecommunication Impact on Business and Solution Engineering
 
 This article is focused on how the technology revolution is unwrapping, fastening, enabling business decisions, and creating new business verticals. Will discuss how the businesses have utilized the newer communication systems ahead of time to make a company or dissipate. Monitoring the communication system progression and implementing in business model is a keystone to write their own success story. It also covers how next-generation telecommunication is creating new business opportunities and maximizes the result using a wearable device, IoT, BOT, XR, virtualization, cloud solutions. This article doesn’t cover the new solution engineering offered by next-generation compute power (HPC), shared memory (IPC), Network on Chip (NoC), NVMe protocol to provides high throughput capabilities (Data analytics, AI, etc..), and next-gen technologies within LAN communication.
 
-## Learning from telecommunication history:
+## Learning from telecommunication history
 
 AT&T (Bell lab), the mighty monopoly as a universal communication service provider company, after 100 years of monopoly in telecommunication, lost the market leadership in the early 20th century because of its wrong prediction on wireless communication impacts, and its monopoly was systematically brought down through FCC. Though AT&T launched its first communication satellite in 1962 for long-distance wireless communication. Tracking and adapting new communication methodologies are key for business success.  
  
@@ -14,7 +12,7 @@ Walmart launched its private satellites in 1987 to centralize its store operatio
 
 Keep the tap on telecommunication changes and adhere in business are keystones for Forward-looking companies
  
-## Disruptive technology revolutions for the last two decades:
+## Disruptive technology revolutions for the last two decades
 
 The below technologies have changed the perspective of IT service from supportive service to part of the business service and even became a business enabler. These disruptive technologies had changed solution engineering. 
 * Moved from lesser performance, less scalable RDBMS to open source No-SQLs (Cassandra, MongoDB, CockroachDB, etc…) with less to no compromise on CAP/ACID/BASE requirements for non-transactional data, in some case transactional data as well with few fine-tunings.
@@ -43,7 +41,7 @@ But still, we are **waiting for a better technological solution for a few requir
 * Split-second (Nanosecond) are most valuable for online trading and the money market. Algorithmic and high-frequency traders are hosting their servers’ closure to the stock exchange server (Co-location model) for low latency communication to take advantage of PTP (Precision Time Protocol) within the stock exchange network. But every trader is deserved to get an almost equal low latency communication platform for the level playing field.
 * Regulatory or License Raj: Proprietary hardware ASIC/FPGA boards had created only big corporate companies to offer telecom solutions. Get rid of this hardware-based business solution to software-based solution will bring more innovation and cost-cutting. 
 
-## Benefits that can be achieved with split-second advantage in next-generation business:
+## Benefits that can be achieved with split-second advantage in next-generation business
 
 Optical fiber has reduced the network latency but the long-distance undersea network doesn't give the desired result. Laying ~500 million km of OFC every year (With a lifetime of 25 years) has increased the TCO. The number of hops is also a concern area to reach optimum latency results. The business will get immense benefit by reducing the network latency in long-distance communication.
  
@@ -69,9 +67,11 @@ Reliable and low latency network communication in conjunction with other technol
 
 All these can be addressed in combination with low earth orbit (LEO) satellite network (like StarLink, OneWeb) availability and 5G technology. StarLink is building a network of satellites (~30k) in a lower orbit and targeting 10ms latency (currently POC gives 30 ms) which is like network communication within the same subnet mask or VLAN. Low latency and higher bandwidth have become mandatory for real-time decision-making.
 
-### Other larger picture: 
+### Other larger picture
+
 The difference between urban cities and rural cities is based on their infrastructure availability, similarly developed nations, and developing nations. Most of the white-collar employees need a reliable and low latency network for remote work than the other urban infrastructures (airport, metro, road, transportation, apartment, hotels, water/sewage, electricity, etc.). Virtual collaboration among team members has drastically increased using new-age collaboration tools during corona travel restrictions. It can change the need for urban infrastructure to an extent. Better Govt policies on virtualization and decentralization can reduce the accumulation of wealth in urban populations and eventually developed nations. Those who have knowledge and interest in any part of the world can equally participate in borderless global development, compared to the current environment.
 
-## Conclusion: 
+## Conclusion
+
 Though the new age languages have provided larger capabilities in business solution engineering, the infrastructure changes were enablers for new solution engineering. Without these infra changes, we wouldn’t have achieved the required NFRs. The new chapter of infrastructure changes (i.e. 5G, Low earth orbit satellite) is on our table for the next round of disruptive changes in solution engineering and changes in business opportunities.
 
