@@ -39,7 +39,7 @@ But still, we are **waiting for a better technological solution for a few requir
 * Low latency requirement has pushed some of the business verticals to keep DR (destroy recovery) center near to primary DC which is not fully meeting the DR purpose.
 * Scarcity of network availability within a private network or private virtual network is continuously increasing the TCO for ever-increasing higher network demand. Data segregation and Network tunneling are not a sustainable solution for next-generation data requirements.
 * Split-second (Nanosecond) are most valuable for online trading and the money market. Algorithmic and high-frequency traders are hosting their servers’ closure to the stock exchange server (Co-location model) for low latency communication to take advantage of PTP (Precision Time Protocol) within the stock exchange network. But every trader is deserved to get an almost equal low latency communication platform for the level playing field.
-* Regulatory or License Raj: Proprietary hardware ASIC/FPGA boards had created only big corporate companies to offer telecom solutions. Get rid of this hardware-based business solution to software-based solution will bring more innovation and cost-cutting. 
+* **Regulatory or License Raj**: Proprietary hardware ASIC/FPGA boards had created only big corporate companies to offer telecom solutions. Get rid of this hardware-based business solution to software-based solution will bring more innovation and cost-cutting. 
 
 ## Benefits that can be achieved with split-second advantage in next-generation business
 
