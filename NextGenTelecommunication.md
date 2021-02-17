@@ -64,7 +64,7 @@ Reliable and low latency network communication in conjunction with other technol
 * Increase in business operation outsourcing and business process outsourcing.
 * Increase in real-time data-driven and data-based decision making (Data Analytics, Machine learning, AI, etc..) from a larger number of global sources.
 * 5G is helping us to move from hardware ASIC/FPGA boards that were proprietary to software-based functionality. It has enabled smaller companies to create a software-based solution to meet the size of telecom operator work. The smaller player can bring in low-cost solutions in the multibillion-dollar industry.
-* Reduce the need of location-based data replication and distributed environment in the name of performance and data availability. Most of these requirements can be replaced with on-demand replication if required.
+* Reduce the need of location-based data replication and distributed environment in the name of performance and high availability. Most of these requirements can be replaced with on-demand replication if required.
 
 All these can be addressed in combination with low earth orbit (LEO) satellite network (like StarLink, OneWeb) availability and 5G technology. StarLink is building a network of satellites (~30k) in a lower orbit and targeting 10ms latency (currently POC gives 30 ms) which is like network communication within the same subnet mask or VLAN. Low latency and higher bandwidth have become mandatory for real-time decision-making.
 
